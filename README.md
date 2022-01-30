@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Arcadia1488
 
-- I'm an amateur Javascript Dev who coded a discord bot with Node-js
+- I'm an amateur Typescript/Javascript dev who coded a discord bot known as "Oni Mei" in Node-js
 
 - I like anime / honkai impact ;)
 
