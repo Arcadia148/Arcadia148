@@ -1,4 +1,4 @@
-<img width="215" height="215" align="left" style="float: left; margin: 0 10px 0 0;" alt="Oni Mei" src="https://cdn.discordapp.com/avatars/572386055928414208/e0b1a6e2af411acde9d9bb1477f2c6f1.png?size=2048"> 
+<img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" alt="Oni Mei" src="https://cdn.discordapp.com/avatars/572386055928414208/e0b1a6e2af411acde9d9bb1477f2c6f1.png?size=2048"> 
 
 ### 👋 ようこそ！ I’m @Arcadia148
 
