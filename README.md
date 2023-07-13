@@ -8,6 +8,9 @@ I like anime, manga and games like Honkai Impact, Honkai Star Rail, Persona, Tea
 
 **You can find me lurking on [discord@arcadia148](https://discord.com/)**
 
+![](https://raw.githubusercontent.com/Arcadia148/mdAssets/a77212bc96ae7e3fc7fe837cba4a8a3ccb79655f/profileAssets/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Arcadia148/mdAssets/3fb6a4df06056e2c9271bf35164710c77cdbcf35/profileAssets/languages.svg#gh-dark-mode-only)
+
 
 <!---
 Arcadia148/Arcadia148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
