@@ -4,18 +4,18 @@
 
 I'm an amateur Typescript/Javascript dev who coded a discord bot known as "Oni Mei" in Node-js
 
-I like anime, manga and games like Honkai Impact, Honkai Star Rail, Persona, Tear of the kingdom, etc. ;)
+I like anime, manga and games like Honkai Impact, Honkai Star Rail, Persona, Tears of the kingdom, etc. ;)
 
 **You can find me lurking on [discord@arcadia148](https://discord.com/)**
 
 #
 
 <a href="">
-  <img height=210 align="left" src="https://raw.githubusercontent.com/Arcadia148/mdAssets/a77212bc96ae7e3fc7fe837cba4a8a3ccb79655f/profileAssets/overview.svg#gh-dark-mode-only" />
+  <img height=210 align="left" src="https://raw.githubusercontent.com/Arcadia148/Arcadia148/b3ab8eee2503b310efcfd0b86a1a9639f250459e/profileAssets/overview.svg#gh-dark-mode-only" />
 </a>
 
 <a href="">
-  <img height=210 align="left" src="https://raw.githubusercontent.com/Arcadia148/mdAssets/3fb6a4df06056e2c9271bf35164710c77cdbcf35/profileAssets/languages.svg#gh-dark-mode-only" />
+  <img height=210 align="left" src="https://raw.githubusercontent.com/Arcadia148/Arcadia148/b3ab8eee2503b310efcfd0b86a1a9639f250459e/profileAssets/languages.svg#gh-dark-mode-only" />
 </a>
 
 
